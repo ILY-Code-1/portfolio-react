@@ -1,0 +1,21 @@
+{
+  "name": "ILY Code — Convert Smile Into Code",
+  "short_name": "ILY Code",
+  "description": "Startup teknologi Indonesia yang membangun solusi digital bermakna.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0f0f0f",
+  "theme_color": "#0f0f0f",
+  "lang": "id-ID",
+  "categories": ["business", "productivity", "developer"],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

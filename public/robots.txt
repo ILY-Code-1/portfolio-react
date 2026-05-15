@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /privacy
+Disallow: /terms
+Disallow: /404
+
+Sitemap: https://ilycode.my.id/sitemap.xml
